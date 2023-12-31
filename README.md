@@ -28,3 +28,6 @@ This script tries to extract games name and code from path and also the auto det
 
 
 ![Preview](/Preview.gif)
+
+## Fix:
+RJ0123456→RJ01234567
